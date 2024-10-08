@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal :: Web site Lucas</title>
-    <link>https://example.org/personal/index.html</link>
+    <link>https://l-ker.github.io/hugo_ejemplo/personal/index.html</link>
     <description>Sobre mi Esta pagina tiene informacion sobre mi experiencia tecnica</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 13:25:31 +0200</lastBuildDate>
-    <atom:link href="https://example.org/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://l-ker.github.io/hugo_ejemplo/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programación</title>
-      <link>https://example.org/personal/01programacion/index.html</link>
+      <link>https://l-ker.github.io/hugo_ejemplo/personal/01programacion/index.html</link>
       <pubDate>Fri, 04 Oct 2024 13:24:31 +0200</pubDate>
-      <guid>https://example.org/personal/01programacion/index.html</guid>
+      <guid>https://l-ker.github.io/hugo_ejemplo/personal/01programacion/index.html</guid>
       <description>Programación codigo de php</description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://example.org/personal/02markdown/index.html</link>
+      <link>https://l-ker.github.io/hugo_ejemplo/personal/02markdown/index.html</link>
       <pubDate>Fri, 04 Oct 2024 13:25:31 +0200</pubDate>
-      <guid>https://example.org/personal/02markdown/index.html</guid>
+      <guid>https://l-ker.github.io/hugo_ejemplo/personal/02markdown/index.html</guid>
       <description>Markdown Titulos Para establece los titulos usare la siguiente sintaxis&#xA;# titulo1 ## titulo2 ### titul3 #### titulo4 ##### titulo5 ###### titulo6 y se verá así:&#xA;titulo1 titulo2 titulo3 titulo4 titulo5 titulo6 Negrita y formate Para ver el texto en negrita escribo&#xA;**Texto en negrita** texto normal para poner un shortcode asi</description>
     </item>
     <item>
       <title>Tema2</title>
-      <link>https://example.org/personal/03tema2/index.html</link>
+      <link>https://l-ker.github.io/hugo_ejemplo/personal/03tema2/index.html</link>
       <pubDate>Fri, 04 Oct 2024 13:24:34 +0200</pubDate>
-      <guid>https://example.org/personal/03tema2/index.html</guid>
+      <guid>https://l-ker.github.io/hugo_ejemplo/personal/03tema2/index.html</guid>
       <description>Mis aficiones</description>
     </item>
   </channel>
